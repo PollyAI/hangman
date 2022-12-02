@@ -6,7 +6,7 @@
 **Try out the API**! Get started by creating a new game:
 
 ```
-curl -X POST https://hangman-api.herokuapp.com/hangman
+curl -X POST https://polly-hangman.herokuapp.com/hangman
 
 ```
 
